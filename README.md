@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tom94022
+- 👀 I’m a part of the Asilomar Microcomputer Workshop AVI (Audio Visual Internet) team
+- 📫 my email is t.gardner@computer.org
