@@ -1,0 +1,23 @@
+{
+  "name": "wikipedia-fact-estimator",
+  "version": "2.0.0",
+  "description": "Estimate total fact tags in Wikipedia using statistical sampling from categorized articles",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test-counter.js",
+    "sample": "node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "keywords": [
+    "wikipedia",
+    "citation-needed",
+    "fact-tags",
+    "statistical-sampling",
+    "wikipedia-api"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
